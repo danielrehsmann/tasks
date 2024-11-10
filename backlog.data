@@ -1,0 +1,84 @@
+{"description":"Choosing Slides","entry":"20240514T102318Z","modified":"20240514T102318Z","status":"pending","uuid":"58a99876-9db4-40c0-ba33-cc01277dd070"}
+{"description":"Choosing Slides","entry":"20240514T102318Z","modified":"20240514T102349Z","project":"AUC","status":"pending","uuid":"58a99876-9db4-40c0-ba33-cc01277dd070"}
+{"description":"Quiz","entry":"20240514T102625Z","modified":"20240514T102625Z","priority":"H","status":"pending","uuid":"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"}
+{"description":"Emails","entry":"20240514T102654Z","modified":"20240514T102654Z","priority":"H","status":"pending","uuid":"75a9ade5-43cb-4837-8c3f-9af6238ae542"}
+{"description":"Quiz","entry":"20240514T102625Z","modified":"20240514T102707Z","priority":"H","start":"20240514T102707Z","status":"pending","uuid":"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"}
+{"description":"Quiz","end":"20240514T104257Z","entry":"20240514T102625Z","modified":"20240514T104257Z","priority":"H","status":"completed","uuid":"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"}
+{"description":"Emails","end":"20240514T104307Z","entry":"20240514T102654Z","modified":"20240514T104307Z","priority":"H","status":"completed","uuid":"75a9ade5-43cb-4837-8c3f-9af6238ae542"}
+{"description":"Read Dvorzak Paper","entry":"20240514T104334Z","modified":"20240514T104334Z","project":"AUC","status":"pending","uuid":"534b1fcf-e5d4-4b70-a4a5-22bda5acc11b"}
+{"description":"Write Ticketing Application","entry":"20240514T104410Z","modified":"20240514T104410Z","project":"AUC","status":"pending","uuid":"f7859a78-8456-428a-be45-edc7abdc2966"}
+{"description":"Course Outline","entry":"20240514T104501Z","modified":"20240514T104501Z","project":"ENV","status":"pending","uuid":"bb135572-6b5a-457d-ad39-e85a9f0939b4"}
+{"description":"Course Outline","entry":"20240514T104519Z","modified":"20240514T104519Z","project":"ORG","status":"pending","uuid":"b72faf2c-0266-4afd-8fa0-44c958794fee"}
+{"description":"Slides","entry":"20240514T104555Z","modified":"20240514T104555Z","project":"ENV","status":"pending","uuid":"3dd1784d-0caf-408c-a0a3-5be25e285764"}
+{"description":"Slides","entry":"20240514T104618Z","modified":"20240514T104618Z","project":"ORG","status":"pending","uuid":"63571758-4e84-4487-aab6-189f1f27bd9b"}
+{"description":"Choosing Slides","entry":"20240514T102318Z","modified":"20240514T104642Z","project":"AUC","start":"20240514T104642Z","status":"pending","uuid":"58a99876-9db4-40c0-ba33-cc01277dd070"}
+{"description":"Update Homepage","entry":"20240515T110724Z","modified":"20240515T110724Z","status":"pending","uuid":"6f3f48b1-67e7-41d8-84b0-8ae91b357479"}
+{"description":"Choosing Slides","end":"20240516T115547Z","entry":"20240514T102318Z","modified":"20240516T115547Z","project":"AUC","status":"completed","uuid":"58a99876-9db4-40c0-ba33-cc01277dd070"}
+{"description":"Hi","entry":"20240522T141339Z","modified":"20240522T141339Z","status":"pending","uuid":"8d53c3f8-b074-4b74-acfc-aef16f46eef2"}
+{"description":"Hi","end":"20240522T141355Z","entry":"20240522T141339Z","modified":"20240522T141355Z","status":"completed","uuid":"8d53c3f8-b074-4b74-acfc-aef16f46eef2"}
+{"description":"Update CV","entry":"20240529T090255Z","modified":"20240529T090255Z","status":"pending","uuid":"c3f3a6ce-97a0-4783-8611-d54882e4d89e"}
+{"description":"Update Homepage","end":"20240531T102928Z","entry":"20240515T110724Z","modified":"20240531T102928Z","status":"completed","uuid":"6f3f48b1-67e7-41d8-84b0-8ae91b357479"}
+{"description":"Update CV","end":"20240531T102942Z","entry":"20240529T090255Z","modified":"20240531T102942Z","status":"completed","uuid":"c3f3a6ce-97a0-4783-8611-d54882e4d89e"}
+{"description":"Read Dvorzak Paper","end":"20240531T103026Z","entry":"20240514T104334Z","modified":"20240531T103026Z","project":"AUC","status":"completed","uuid":"534b1fcf-e5d4-4b70-a4a5-22bda5acc11b"}
+{"description":"Arthur Rieß benotung","entry":"20240603T084233Z","modified":"20240603T084233Z","status":"pending","uuid":"14648da0-a1e7-4b86-b3a7-6f0a36868cce"}
+{"description":"Hector Reimbursement","entry":"20240603T084251Z","modified":"20240603T084251Z","status":"pending","uuid":"3b45daf5-4d64-4952-bcc3-776559766760"}
+{"description":"Write Ticketing Application","end":"20240603T145834Z","entry":"20240514T104410Z","modified":"20240603T145834Z","project":"AUC","status":"completed","uuid":"f7859a78-8456-428a-be45-edc7abdc2966"}
+{"description":"Hector Reimbursement","end":"20240605T085142Z","entry":"20240603T084251Z","modified":"20240605T085142Z","status":"completed","uuid":"3b45daf5-4d64-4952-bcc3-776559766760"}
+{"description":"Arthur Rieß benotung","end":"20240605T085200Z","entry":"20240603T084233Z","modified":"20240605T085200Z","status":"completed","uuid":"14648da0-a1e7-4b86-b3a7-6f0a36868cce"}
+{"description":"Course Outline","end":"20240607T071355Z","entry":"20240514T104501Z","modified":"20240607T071355Z","project":"ENV","status":"completed","uuid":"bb135572-6b5a-457d-ad39-e85a9f0939b4"}
+{"description":"Notes","entry":"20240607T071428Z","modified":"20240607T071428Z","project":"ENV","status":"pending","uuid":"ee2f62b0-dff8-4eb9-8f67-38e102c705e2"}
+{"description":"Notes","entry":"20240607T071513Z","modified":"20240607T071513Z","project":"ORG","status":"pending","uuid":"66ec3a37-9869-4fe5-84fa-571324914e26"}
+{"description":"Problem Sets projet:ENV","entry":"20240607T071536Z","modified":"20240607T071536Z","status":"pending","uuid":"584ad779-783c-488f-9d3f-04106f3fb8b5"}
+{"description":"Problem Sets projet:ENV","end":"20240607T071601Z","entry":"20240607T071536Z","modified":"20240607T071601Z","status":"completed","uuid":"584ad779-783c-488f-9d3f-04106f3fb8b5"}
+{"description":"Problem Sets","entry":"20240607T071623Z","modified":"20240607T071623Z","project":"ENV","status":"pending","uuid":"6db153da-b4a3-4385-adf9-ffef64196428"}
+{"description":"Merge versions","entry":"20240613T105122Z","modified":"20240613T105122Z","project":"AUC","status":"pending","uuid":"0aded53b-fb64-44ce-816d-a139eb1edde9"}
+{"description":"Merge versions","end":"20240617T112919Z","entry":"20240613T105122Z","modified":"20240617T112919Z","project":"AUC","status":"completed","uuid":"0aded53b-fb64-44ce-816d-a139eb1edde9"}
+{"description":"Payment insurance","entry":"20240617T112954Z","modified":"20240617T112954Z","status":"pending","uuid":"a9c8b3b9-0826-4342-b3af-c98d7e91a551"}
+{"description":"Payment insurance","end":"20240618T084018Z","entry":"20240617T112954Z","modified":"20240618T084018Z","status":"completed","uuid":"a9c8b3b9-0826-4342-b3af-c98d7e91a551"}
+{"description":"Slides","entry":"20240514T104555Z","modified":"20240618T084027Z","project":"ENV","start":"20240618T084027Z","status":"pending","uuid":"3dd1784d-0caf-408c-a0a3-5be25e285764"}
+{"description":"Proof SP","entry":"20240619T133211Z","modified":"20240619T133211Z","project":"AUC","status":"pending","uuid":"dea26ffc-8e90-414a-bc59-059b19e611bd"}
+{"description":"Proof SC","entry":"20240619T133239Z","modified":"20240619T133239Z","project":"AUC","status":"pending","uuid":"e9a6131d-71e1-4e86-953f-a9185667ac88"}
+{"description":"Move between monitors","entry":"20240621T082924Z","modified":"20240621T082924Z","status":"pending","uuid":"ee5f3cab-f75c-4bd8-908f-0eb999723fa3"}
+{"description":"Proof SP","entry":"20240619T133211Z","modified":"20240621T082947Z","project":"AUC","start":"20240621T082947Z","status":"pending","uuid":"dea26ffc-8e90-414a-bc59-059b19e611bd"}
+{"description":"Move between monitors","end":"20240625T093501Z","entry":"20240621T082924Z","modified":"20240625T093501Z","status":"completed","uuid":"ee5f3cab-f75c-4bd8-908f-0eb999723fa3"}
+{"description":"Proof SP","end":"20240807T081102Z","entry":"20240619T133211Z","modified":"20240807T081102Z","project":"AUC","status":"completed","uuid":"dea26ffc-8e90-414a-bc59-059b19e611bd"}
+{"description":"Final read","entry":"20240807T081147Z","modified":"20240807T081147Z","project":"AUC","status":"pending","uuid":"267db415-aa99-4b37-adcf-49b58c9b6012"}
+{"description":"Proof SC","end":"20240905T074155Z","entry":"20240619T133239Z","modified":"20240905T074155Z","project":"AUC","status":"completed","uuid":"e9a6131d-71e1-4e86-953f-a9185667ac88"}
+{"description":"Derigstration of non-present students","entry":"20240927T120608Z","modified":"20240927T120608Z","status":"pending","uuid":"5493afc4-47fe-4649-84b9-722a585e60e5"}
+{"description":"Course Outline","end":"20241001T105724Z","entry":"20240514T104519Z","modified":"20241001T105724Z","project":"ORG","status":"completed","uuid":"b72faf2c-0266-4afd-8fa0-44c958794fee"}
+{"description":"Slides","entry":"20240514T104618Z","modified":"20241001T105755Z","project":"ORG","start":"20241001T105755Z","status":"pending","uuid":"63571758-4e84-4487-aab6-189f1f27bd9b"}
+{"description":"Slides","entry":"20240514T104555Z","modified":"20241001T105807Z","project":"ENV","status":"pending","uuid":"3dd1784d-0caf-408c-a0a3-5be25e285764"}
+{"description":"Slides","end":"20241001T111929Z","entry":"20240514T104618Z","modified":"20241001T111929Z","project":"ORG","status":"completed","uuid":"63571758-4e84-4487-aab6-189f1f27bd9b"}
+{"description":"Moodle","entry":"20241001T111959Z","modified":"20241001T111959Z","project":"ENV","status":"pending","uuid":"5f4958a9-d83f-42ec-82a5-bb18a658f4fc"}
+{"description":"Moodle","entry":"20241001T112031Z","modified":"20241001T112031Z","project":"ORG","status":"pending","uuid":"2183ea40-7eb0-44b5-b556-a9020f235e74"}
+{"description":"Notes","end":"20241001T112438Z","entry":"20240607T071428Z","modified":"20241001T112441Z","project":"ENV","status":"deleted","uuid":"ee2f62b0-dff8-4eb9-8f67-38e102c705e2"}
+{"description":"Notes","end":"20241001T112510Z","entry":"20240607T071513Z","modified":"20241001T112513Z","project":"ORG","status":"deleted","uuid":"66ec3a37-9869-4fe5-84fa-571324914e26"}
+{"description":"Moodle","entry":"20241001T112031Z","modified":"20241001T112558Z","project":"ORG","start":"20241001T112558Z","status":"pending","uuid":"2183ea40-7eb0-44b5-b556-a9020f235e74"}
+{"description":"Moodle","end":"20241001T135047Z","entry":"20241001T112031Z","modified":"20241001T135047Z","project":"ORG","status":"completed","uuid":"2183ea40-7eb0-44b5-b556-a9020f235e74"}
+{"description":"Slides","entry":"20240514T104555Z","modified":"20241003T113947Z","project":"ENV","start":"20241003T113947Z","status":"pending","uuid":"3dd1784d-0caf-408c-a0a3-5be25e285764"}
+{"description":"Derigstration of non-present students","end":"20241007T080504Z","entry":"20240927T120608Z","modified":"20241007T080504Z","status":"completed","uuid":"5493afc4-47fe-4649-84b9-722a585e60e5"}
+{"description":"Problem Sets","entry":"20240607T071623Z","modified":"20241007T080914Z","project":"ENV","start":"20241007T080914Z","status":"pending","uuid":"6db153da-b4a3-4385-adf9-ffef64196428"}
+{"description":"Slides","end":"20241007T080926Z","entry":"20240514T104555Z","modified":"20241007T080926Z","project":"ENV","status":"completed","uuid":"3dd1784d-0caf-408c-a0a3-5be25e285764"}
+{"description":"Problem Sets","end":"20241007T080933Z","entry":"20240607T071623Z","modified":"20241007T080933Z","project":"ENV","status":"completed","uuid":"6db153da-b4a3-4385-adf9-ffef64196428"}
+{"description":"Final read","end":"20241007T080944Z","entry":"20240807T081147Z","modified":"20241007T080944Z","project":"AUC","status":"completed","uuid":"267db415-aa99-4b37-adcf-49b58c9b6012"}
+{"description":"Moodle","end":"20241007T080951Z","entry":"20241001T111959Z","modified":"20241007T080951Z","project":"ENV","status":"completed","uuid":"5f4958a9-d83f-42ec-82a5-bb18a658f4fc"}
+{"description":"Prep","entry":"20241007T081045Z","modified":"20241007T081045Z","project":"ORG","status":"pending","uuid":"d86aa482-82a4-45db-99ff-21a3963ade32"}
+{"description":"Prep","entry":"20241007T081109Z","modified":"20241007T081109Z","project":"ENV","status":"pending","uuid":"7733cf88-67f4-4dce-bff5-c2793d2a7cc0"}
+{"description":"Slides","entry":"20241007T081124Z","modified":"20241007T081124Z","project":"ENV","status":"pending","uuid":"8390c7dc-cb4b-4416-a3d4-c1b7f8478f27"}
+{"description":"Final-read","entry":"20241007T081227Z","modified":"20241007T081227Z","project":"AUC","status":"pending","uuid":"3611c5d1-3bad-4de2-bbf1-f65496a6738e"}
+{"description":"Brown-Bag","entry":"20241007T081423Z","modified":"20241007T081423Z","status":"pending","uuid":"18eb40a8-6d7f-46ef-a509-3dfc325ffea7"}
+{"description":"Prep","entry":"20241007T081045Z","modified":"20241007T082229Z","project":"ORG","start":"20241007T082229Z","status":"pending","uuid":"d86aa482-82a4-45db-99ff-21a3963ade32"}
+{"description":"Problem-sets","entry":"20241007T082255Z","modified":"20241007T082255Z","project":"ENV","status":"pending","uuid":"49229d0a-f324-4c9a-a204-2a890eff5443"}
+{"description":"Prep","end":"20241023T175854Z","entry":"20241007T081045Z","modified":"20241023T175854Z","project":"ORG","status":"completed","uuid":"d86aa482-82a4-45db-99ff-21a3963ade32"}
+{"description":"Final-read","end":"20241023T175902Z","entry":"20241007T081227Z","modified":"20241023T175902Z","project":"AUC","status":"completed","uuid":"3611c5d1-3bad-4de2-bbf1-f65496a6738e"}
+{"description":"Brown-Bag","end":"20241023T175914Z","entry":"20241007T081423Z","modified":"20241023T175914Z","status":"completed","uuid":"18eb40a8-6d7f-46ef-a509-3dfc325ffea7"}
+{"description":"Understand Kalman filters","entry":"20241026T092348Z","modified":"20241026T092348Z","status":"pending","uuid":"19f6041d-5284-4bad-af8c-dc9de6f14440"}
+{"description":"Understand Kalman filters","entry":"20241026T092348Z","modified":"20241026T092413Z","project":"FAKE","status":"pending","uuid":"19f6041d-5284-4bad-af8c-dc9de6f14440"}
+{"description":"Slides","end":"20241026T092423Z","entry":"20241007T081124Z","modified":"20241026T092423Z","project":"ENV","status":"completed","uuid":"8390c7dc-cb4b-4416-a3d4-c1b7f8478f27"}
+{"description":"Prep","end":"20241026T092438Z","entry":"20241007T081109Z","modified":"20241026T092438Z","project":"ENV","status":"completed","uuid":"7733cf88-67f4-4dce-bff5-c2793d2a7cc0"}
+{"description":"Understand Kalman filters","end":"20241030T173236Z","entry":"20241026T092348Z","modified":"20241030T173236Z","project":"FAKE","status":"completed","uuid":"19f6041d-5284-4bad-af8c-dc9de6f14440"}
+{"description":"Ratio Distribution","entry":"20241031T132546Z","modified":"20241031T132546Z","project":"FAKE","status":"pending","uuid":"eff97d26-6035-4375-aaf4-f2d6c10c3c6e"}
+{"description":"Problem-sets","end":"20241105T203920Z","entry":"20241007T082255Z","modified":"20241105T203920Z","project":"ENV","status":"completed","uuid":"49229d0a-f324-4c9a-a204-2a890eff5443"}
+{"description":"Ratio Distribution","end":"20241105T203932Z","entry":"20241031T132546Z","modified":"20241105T203932Z","project":"FAKE","status":"completed","uuid":"eff97d26-6035-4375-aaf4-f2d6c10c3c6e"}
+{"description":"Presentation","entry":"20241110T163236Z","modified":"20241110T163236Z","project":"AUC","status":"pending","uuid":"4fd589c5-d514-420c-aa4e-3c0f2c8fb53b"}
+{"description":"Motivation","entry":"20241110T163313Z","modified":"20241110T163313Z","project":"AUC","status":"pending","uuid":"5f1a1c04-a57b-4cac-84a4-8cc3a5f65924"}

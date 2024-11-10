@@ -1,0 +1,677 @@
+time 1709303311
+new [description:"brown bag" entry:"1709303311" modified:"1709303311" status:"pending" uuid:"87df63d4-db41-4782-bf85-c2ea258a2751"]
+---
+time 1709305018
+old [description:"brown bag" entry:"1709303311" modified:"1709303311" status:"pending" uuid:"87df63d4-db41-4782-bf85-c2ea258a2751"]
+new [description:"brown bag" entry:"1709303311" modified:"1709305018" start:"1709305018" status:"pending" uuid:"87df63d4-db41-4782-bf85-c2ea258a2751"]
+---
+time 1709307900
+old [description:"update timeline" entry:"1709303372" modified:"1709303372" status:"pending" uuid:"130ae49b-80b1-4999-9ea9-7abdce0f396c"]
+new [description:"update timeline" end:"1709307897" entry:"1709303372" modified:"1709307900" status:"deleted" uuid:"130ae49b-80b1-4999-9ea9-7abdce0f396c"]
+---
+time 1709308256
+new [description:"Code utility" entry:"1709308256" modified:"1709308256" project:"Choosing Auction" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+---
+time 1709310056
+old [description:"Code utility" entry:"1709308256" modified:"1709308256" project:"Choosing Auction" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+new [description:"Code utility" entry:"1709308256" modified:"1709310056" project:"Choosing Auction" start:"1709310056" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+---
+time 1709317073
+old [description:"Code utility" entry:"1709308256" modified:"1709310056" project:"Choosing Auction" start:"1709310056" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+new [description:"Code utility" entry:"1709308256" modified:"1709317073" project:"Choosing Auction" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+---
+time 1709317157
+new [description:"Add Sumo slides" entry:"1709317157" modified:"1709317157" project:"Defense" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+---
+time 1709317169
+new [description:"Correct slides" entry:"1709317169" modified:"1709317169" project:"Defense" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+---
+time 1709317178
+new [description:"Write notes" entry:"1709317178" modified:"1709317178" project:"Defense" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709317190
+new [description:"Practice" entry:"1709317190" modified:"1709317190" project:"Defense" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1709317236
+new [description:"Agree on general story" entry:"1709317236" modified:"1709317236" project:"Choosing Auction" status:"pending" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+---
+time 1709317423
+old [description:"Read Revisions" entry:"1709317126" modified:"1709317126" project:"Contesting Fake News" status:"pending" uuid:"305ad249-433a-410f-b3f1-fef67a6a321d"]
+new [description:"Read Revisions" end:"1709317420" entry:"1709317126" modified:"1709317423" project:"Contesting Fake News" status:"deleted" uuid:"305ad249-433a-410f-b3f1-fef67a6a321d"]
+---
+time 1709544901
+old [description:"Add Sumo slides" entry:"1709317157" modified:"1709317157" project:"Defense" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+new [description:"Add Sumo slides" entry:"1709317157" modified:"1709544901" project:"Defense" start:"1709544901" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+---
+time 1709544994
+old [description:"Correct slides" entry:"1709317169" modified:"1709317169" project:"Defense" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+new [description:"Correct slides" entry:"1709317169" modified:"1709544994" priority:"H" project:"Defense" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+---
+time 1709545004
+old [description:"Add Sumo slides" entry:"1709317157" modified:"1709544901" project:"Defense" start:"1709544901" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+new [description:"Add Sumo slides" entry:"1709317157" modified:"1709545004" priority:"H" project:"Defense" start:"1709544901" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+---
+time 1709545047
+old [description:"Write notes" entry:"1709317178" modified:"1709317178" project:"Defense" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709545047" priority:"H" project:"Defense" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709545052
+old [description:"Practice" entry:"1709317190" modified:"1709317190" project:"Defense" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+new [description:"Practice" entry:"1709317190" modified:"1709545052" priority:"H" project:"Defense" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1709547471
+old [description:"Write notes" entry:"1709317178" modified:"1709545047" priority:"H" project:"Defense" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709547471" priority:"M" project:"Defense" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709548287
+old [description:"Practice" entry:"1709317190" modified:"1709545052" priority:"H" project:"Defense" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+new [description:"Practice" entry:"1709317190" modified:"1709548287" priority:"L" project:"Defense" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1709554023
+old [description:"Code utility" entry:"1709308256" modified:"1709317073" project:"Choosing Auction" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+new [description:"Code utility" entry:"1709308256" modified:"1709554023" project:"CA" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+---
+time 1709554024
+old [description:"Agree on general story" entry:"1709317236" modified:"1709317236" project:"Choosing Auction" status:"pending" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+new [description:"Agree on general story" entry:"1709317236" modified:"1709554024" project:"CA" status:"pending" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+---
+time 1709554026
+old [description:"Read" end:"1709308768" entry:"1709308731" modified:"1709308768" project:"Choosing Auction" status:"completed" uuid:"5cc68a6e-03e3-4a48-9640-839e0b4131da"]
+new [description:"Read" end:"1709308768" entry:"1709308731" modified:"1709554026" project:"CA" status:"completed" uuid:"5cc68a6e-03e3-4a48-9640-839e0b4131da"]
+---
+time 1709554052
+old [description:"Add Sumo slides" entry:"1709317157" modified:"1709545004" priority:"H" project:"Defense" start:"1709544901" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+new [description:"Add Sumo slides" entry:"1709317157" modified:"1709554052" priority:"H" project:"DEF" start:"1709544901" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+---
+time 1709554052
+old [description:"Correct slides" entry:"1709317169" modified:"1709544994" priority:"H" project:"Defense" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+new [description:"Correct slides" entry:"1709317169" modified:"1709554052" priority:"H" project:"DEF" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+---
+time 1709554053
+old [description:"Write notes" entry:"1709317178" modified:"1709547471" priority:"M" project:"Defense" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709554053" priority:"M" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709554055
+old [description:"Practice" entry:"1709317190" modified:"1709548287" priority:"L" project:"Defense" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+new [description:"Practice" entry:"1709317190" modified:"1709554055" priority:"L" project:"DEF" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1709554162
+old [description:"Correct slides" entry:"1709317169" modified:"1709554052" priority:"H" project:"DEF" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+new [description:"Correct slides" entry:"1709317169" modified:"1709554162" priority:"M" project:"DEF" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+---
+time 1709554173
+old [description:"Correct slides" entry:"1709317169" modified:"1709554162" priority:"M" project:"DEF" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+new [description:"Correct slides" entry:"1709317169" modified:"1709554173" priority:"H" project:"DEF" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+---
+time 1709554180
+old [description:"Write notes" entry:"1709317178" modified:"1709554053" priority:"M" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709554180" priority:"H" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709554190
+old [description:"Practice" entry:"1709317190" modified:"1709554055" priority:"L" project:"DEF" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+new [description:"Practice" entry:"1709317190" modified:"1709554190" priority:"H" project:"DEF" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1709554207
+old [description:"Code utility" entry:"1709308256" modified:"1709554023" project:"CA" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+new [description:"Code utility" entry:"1709308256" modified:"1709554207" priority:"L" project:"CA" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+---
+time 1709554213
+old [description:"Agree on general story" entry:"1709317236" modified:"1709554024" project:"CA" status:"pending" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+new [description:"Agree on general story" entry:"1709317236" modified:"1709554213" priority:"L" project:"CA" status:"pending" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+---
+time 1709560865
+old [description:"Write notes" entry:"1709317178" modified:"1709554180" priority:"H" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709560865" priority:"H" project:"DEF" start:"1709560865" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709560897
+new [description:"start" entry:"1709560897" modified:"1709560897" project:"DEF" status:"pending" uuid:"40b5602b-4c22-4736-8a3a-d877cb2cf01d"]
+---
+time 1709560927
+old [description:"start" entry:"1709560897" modified:"1709560897" project:"DEF" status:"pending" uuid:"40b5602b-4c22-4736-8a3a-d877cb2cf01d"]
+new [description:"start" end:"1709560927" entry:"1709560897" modified:"1709560927" project:"DEF" status:"completed" uuid:"40b5602b-4c22-4736-8a3a-d877cb2cf01d"]
+---
+time 1709561184
+old [description:"Write notes" entry:"1709317178" modified:"1709560865" priority:"H" project:"DEF" start:"1709560865" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709561184" priority:"H" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709561239
+old [description:"Write notes" entry:"1709317178" modified:"1709561184" priority:"H" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709561239" priority:"M" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709561268
+old [description:"Practice" entry:"1709317190" modified:"1709554190" priority:"H" project:"DEF" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+new [description:"Practice" entry:"1709317190" modified:"1709561268" priority:"M" project:"DEF" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1709566941
+old [description:"Add Sumo slides" entry:"1709317157" modified:"1709554052" priority:"H" project:"DEF" start:"1709544901" status:"pending" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+new [description:"Add Sumo slides" end:"1709566941" entry:"1709317157" modified:"1709566941" priority:"H" project:"DEF" status:"completed" uuid:"332dfb9d-b5dc-4159-b7b9-03d7572d960e"]
+---
+time 1709566955
+old [description:"Write notes" entry:"1709317178" modified:"1709561239" priority:"M" project:"DEF" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" entry:"1709317178" modified:"1709566955" priority:"M" project:"DEF" start:"1709566955" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1709566991
+old [description:"Correct slides" entry:"1709317169" modified:"1709554173" priority:"H" project:"DEF" status:"pending" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+new [description:"Correct slides" end:"1709566991" entry:"1709317169" modified:"1709566991" priority:"H" project:"DEF" status:"completed" uuid:"06c07943-3c6c-40fe-9c79-03cbf3c12dcc"]
+---
+time 1709630438
+new [description:"Learn reports" entry:"1709630438" modified:"1709630438" priority:"H" project:"DEF" status:"pending" uuid:"9f6f10e3-bc65-4b51-944f-9b9c6829b41b"]
+---
+time 1709630505
+new [description:"Ranger search and Drag" entry:"1709630505" modified:"1709630505" priority:"L" project:"TEC" status:"pending" uuid:"774cecb5-0ff8-40db-9f06-81e028467c50"]
+---
+time 1709630520
+new [description:"Script shortcuts" entry:"1709630520" modified:"1709630520" priority:"L" project:"TEC" status:"pending" uuid:"912eaf0a-ee05-4264-a106-f61f204632e5"]
+---
+time 1709630583
+new [description:"LV admissions" entry:"1709630583" modified:"1709630583" priority:"M" project:"LV" status:"pending" uuid:"1bad02f2-2466-41de-b949-2a3107ff7863"]
+---
+time 1709630682
+new [description:"Correct slides" entry:"1709630682" modified:"1709630682" priority:"H" project:"DEF" status:"pending" uuid:"7a74bd18-f12c-47ca-8f06-d0280aaeff06"]
+---
+time 1709636626
+old [description:"Ranger search and Drag" entry:"1709630505" modified:"1709630505" priority:"L" project:"TEC" status:"pending" uuid:"774cecb5-0ff8-40db-9f06-81e028467c50"]
+new [description:"Ranger search and Drag" end:"1709636626" entry:"1709630505" modified:"1709636626" priority:"L" project:"TEC" status:"completed" uuid:"774cecb5-0ff8-40db-9f06-81e028467c50"]
+---
+time 1709638922
+new [description:"Brownbag Email" entry:"1709638922" modified:"1709638922" status:"pending" uuid:"cf6ec720-33c5-4c15-9203-6a1986d0df08"]
+---
+time 1709638966
+old [description:"Correct slides" entry:"1709630682" modified:"1709630682" priority:"H" project:"DEF" status:"pending" uuid:"7a74bd18-f12c-47ca-8f06-d0280aaeff06"]
+new [description:"Correct slides" entry:"1709630682" modified:"1709638966" priority:"H" project:"DEF" start:"1709638966" status:"pending" uuid:"7a74bd18-f12c-47ca-8f06-d0280aaeff06"]
+---
+time 1709647980
+old [description:"Correct slides" entry:"1709630682" modified:"1709638966" priority:"H" project:"DEF" start:"1709638966" status:"pending" uuid:"7a74bd18-f12c-47ca-8f06-d0280aaeff06"]
+new [description:"Correct slides" end:"1709647980" entry:"1709630682" modified:"1709647980" priority:"H" project:"DEF" status:"completed" uuid:"7a74bd18-f12c-47ca-8f06-d0280aaeff06"]
+---
+time 1709648121
+new [description:"Call Draga" entry:"1709648121" modified:"1709648121" priority:"L" status:"pending" uuid:"5c5ba0a4-31f4-4e81-9caf-cc34946eb7a0"]
+---
+time 1709648170
+new [description:"Pick Clock" entry:"1709648170" modified:"1709648170" status:"pending" uuid:"23178df5-bc09-42a9-890e-3d7e66807a79"]
+---
+time 1709650381
+old [description:"LV admissions" entry:"1709630583" modified:"1709630583" priority:"M" project:"LV" status:"pending" uuid:"1bad02f2-2466-41de-b949-2a3107ff7863"]
+new [description:"LV admissions" end:"1709650381" entry:"1709630583" modified:"1709650381" priority:"M" project:"LV" status:"completed" uuid:"1bad02f2-2466-41de-b949-2a3107ff7863"]
+---
+time 1709714505
+old [description:"Pick Clock" entry:"1709648170" modified:"1709648170" status:"pending" uuid:"23178df5-bc09-42a9-890e-3d7e66807a79"]
+new [description:"Pick Clock" end:"1709714505" entry:"1709648170" modified:"1709714505" status:"completed" uuid:"23178df5-bc09-42a9-890e-3d7e66807a79"]
+---
+time 1709715212
+new [description:"Gpu utilization" entry:"1709715212" modified:"1709715212" project:"TEC" status:"pending" uuid:"0422b4d6-d5f5-4123-9f15-bac4eeca305f"]
+---
+time 1709716274
+old [description:"Brownbag Email" entry:"1709638922" modified:"1709638922" status:"pending" uuid:"cf6ec720-33c5-4c15-9203-6a1986d0df08"]
+new [description:"Brownbag Email" end:"1709716274" entry:"1709638922" modified:"1709716274" status:"completed" uuid:"cf6ec720-33c5-4c15-9203-6a1986d0df08"]
+---
+time 1709716858
+old [description:"Gpu utilization" entry:"1709715212" modified:"1709715212" project:"TEC" status:"pending" uuid:"0422b4d6-d5f5-4123-9f15-bac4eeca305f"]
+new [description:"Gpu utilization" end:"1709716858" entry:"1709715212" modified:"1709716858" project:"TEC" status:"completed" uuid:"0422b4d6-d5f5-4123-9f15-bac4eeca305f"]
+---
+time 1709814634
+new [description:"LV-Slides" entry:"1709814634" modified:"1709814634" status:"pending" uuid:"0a2d42c4-211d-4f00-b7a2-e5a18b1d8d0b"]
+---
+time 1715360827
+new [description:"Define something" entry:"1715360827" modified:"1715360827" status:"pending" uuid:"89239347-49d7-48d8-a7e9-07889ca211f5"]
+---
+time 1715361690
+old [description:"Define something" entry:"1715360827" modified:"1715360827" status:"pending" uuid:"89239347-49d7-48d8-a7e9-07889ca211f5"]
+new [description:"Define something" end:"1715361690" entry:"1715360827" modified:"1715361690" status:"completed" uuid:"89239347-49d7-48d8-a7e9-07889ca211f5"]
+---
+time 1715363140
+new [description:"statusbar" entry:"1715363140" modified:"1715363140" status:"pending" uuid:"c9351529-a385-433b-a87b-dad5b17f3a2c"]
+---
+time 1715363146
+new [description:"windows" entry:"1715363146" modified:"1715363146" status:"pending" uuid:"0fc3cd36-90e5-4ef5-a5fb-b4d6c12faf05"]
+---
+time 1715363159
+old [description:"Learn reports" entry:"1709630438" modified:"1709630438" priority:"H" project:"DEF" status:"pending" uuid:"9f6f10e3-bc65-4b51-944f-9b9c6829b41b"]
+new [description:"Learn reports" end:"1715363159" entry:"1709630438" modified:"1715363159" priority:"H" project:"DEF" status:"completed" uuid:"9f6f10e3-bc65-4b51-944f-9b9c6829b41b"]
+---
+time 1715363165
+old [description:"Practice" entry:"1709317190" modified:"1709561268" priority:"M" project:"DEF" status:"pending" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+new [description:"Practice" end:"1715363165" entry:"1709317190" modified:"1715363165" priority:"M" project:"DEF" status:"completed" uuid:"f0d99556-ff46-4f20-88fb-7f130f8e504a"]
+---
+time 1715363171
+old [description:"windows" entry:"1715363146" modified:"1715363146" status:"pending" uuid:"0fc3cd36-90e5-4ef5-a5fb-b4d6c12faf05"]
+new [description:"windows" end:"1715363171" entry:"1715363146" modified:"1715363171" status:"completed" uuid:"0fc3cd36-90e5-4ef5-a5fb-b4d6c12faf05"]
+---
+time 1715363178
+old [description:"Code utility" entry:"1709308256" modified:"1709554207" priority:"L" project:"CA" status:"pending" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+new [description:"Code utility" end:"1715363178" entry:"1709308256" modified:"1715363178" priority:"L" project:"CA" status:"completed" uuid:"cb181082-9f1a-47f1-9db8-5e90165687dd"]
+---
+time 1715363190
+old [description:"Call Draga" entry:"1709648121" modified:"1709648121" priority:"L" status:"pending" uuid:"5c5ba0a4-31f4-4e81-9caf-cc34946eb7a0"]
+new [description:"Call Draga" end:"1715363190" entry:"1709648121" modified:"1715363190" priority:"L" status:"completed" uuid:"5c5ba0a4-31f4-4e81-9caf-cc34946eb7a0"]
+---
+time 1715363218
+old [description:"Agree on general story" entry:"1709317236" modified:"1709554213" priority:"L" project:"CA" status:"pending" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+new [description:"Agree on general story" end:"1715363218" entry:"1709317236" modified:"1715363218" priority:"L" project:"CA" status:"completed" uuid:"dc10aab9-12ee-4dbc-9eb5-b3f54dcc3ece"]
+---
+time 1715363225
+old [description:"statusbar" entry:"1715363140" modified:"1715363140" status:"pending" uuid:"c9351529-a385-433b-a87b-dad5b17f3a2c"]
+new [description:"statusbar" end:"1715363225" entry:"1715363140" modified:"1715363225" status:"completed" uuid:"c9351529-a385-433b-a87b-dad5b17f3a2c"]
+---
+time 1715363233
+old [description:"LV-Slides" entry:"1709814634" modified:"1709814634" status:"pending" uuid:"0a2d42c4-211d-4f00-b7a2-e5a18b1d8d0b"]
+new [description:"LV-Slides" end:"1715363233" entry:"1709814634" modified:"1715363233" status:"completed" uuid:"0a2d42c4-211d-4f00-b7a2-e5a18b1d8d0b"]
+---
+time 1715363253
+old [description:"Write notes" entry:"1709317178" modified:"1709566955" priority:"M" project:"DEF" start:"1709566955" status:"pending" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+new [description:"Write notes" end:"1715363253" entry:"1709317178" modified:"1715363253" priority:"M" project:"DEF" status:"completed" uuid:"a30fbf2e-29a6-462f-b098-33c427923c67"]
+---
+time 1715363267
+old [description:"Script shortcuts" entry:"1709630520" modified:"1709630520" priority:"L" project:"TEC" status:"pending" uuid:"912eaf0a-ee05-4264-a106-f61f204632e5"]
+new [description:"Script shortcuts" end:"1715363267" entry:"1709630520" modified:"1715363267" priority:"L" project:"TEC" status:"completed" uuid:"912eaf0a-ee05-4264-a106-f61f204632e5"]
+---
+time 1715363283
+new [description:"windows-usb" entry:"1715363283" modified:"1715363283" status:"pending" uuid:"216e6d57-046f-432e-accc-07fd2d06ab96"]
+---
+time 1715363298
+new [description:"vimtex" entry:"1715363298" modified:"1715363298" status:"pending" uuid:"5a80115d-8e53-484d-8019-9bc054468cf5"]
+---
+time 1715363307
+new [description:"ultisnips" entry:"1715363307" modified:"1715363307" status:"pending" uuid:"bbfe6a69-29fc-47f7-9591-1260c15c7047"]
+---
+time 1715363331
+new [description:"gcalcli" entry:"1715363331" modified:"1715363331" status:"pending" uuid:"951c3259-ee50-4438-af5a-9dd6ec6c3c13"]
+---
+time 1715363336
+new [description:"mathematica" entry:"1715363336" modified:"1715363336" status:"pending" uuid:"0f059c17-7336-426e-b5a1-7a62d5cffd5a"]
+---
+time 1715363374
+new [description:"scrcpy" entry:"1715363374" modified:"1715363374" status:"pending" uuid:"0873f036-358f-435c-9f23-e7b5bdcb6816"]
+---
+time 1715363393
+new [description:"cuda" entry:"1715363393" modified:"1715363393" status:"pending" uuid:"5f807c3a-1ff0-44d4-a332-f55124301c32"]
+---
+time 1715363400
+new [description:"nordicons" entry:"1715363400" modified:"1715363400" status:"pending" uuid:"604053f0-f5ec-421c-8734-cc21bababbb0"]
+---
+time 1715363485
+new [description:"youcompleteme" entry:"1715363485" modified:"1715363485" status:"pending" uuid:"8edb2603-23a2-4e98-9778-a8eb970effae"]
+---
+time 1715363568
+new [description:"zsh autocomplete" entry:"1715363568" modified:"1715363568" status:"pending" uuid:"80b3885a-7a57-476f-8686-d16ab6e4b122"]
+---
+time 1715363629
+old [description:"zsh autocomplete" entry:"1715363568" modified:"1715363568" status:"pending" uuid:"80b3885a-7a57-476f-8686-d16ab6e4b122"]
+new [description:"zsh autocomplete" end:"1715363629" entry:"1715363568" modified:"1715363629" status:"completed" uuid:"80b3885a-7a57-476f-8686-d16ab6e4b122"]
+---
+time 1715363826
+new [description:"thunderbird-theme" entry:"1715363826" modified:"1715363826" status:"pending" uuid:"a1b50279-0d3c-4a7e-8ba7-c97828c5de2c"]
+---
+time 1715376653
+old [description:"nordicons" entry:"1715363400" modified:"1715363400" status:"pending" uuid:"604053f0-f5ec-421c-8734-cc21bababbb0"]
+new [description:"nordicons" end:"1715376653" entry:"1715363400" modified:"1715376653" status:"completed" uuid:"604053f0-f5ec-421c-8734-cc21bababbb0"]
+---
+time 1715376665
+old [description:"cuda" entry:"1715363393" modified:"1715363393" status:"pending" uuid:"5f807c3a-1ff0-44d4-a332-f55124301c32"]
+new [description:"cuda" end:"1715376665" entry:"1715363393" modified:"1715376665" status:"completed" uuid:"5f807c3a-1ff0-44d4-a332-f55124301c32"]
+---
+time 1715378128
+old [description:"vimtex" entry:"1715363298" modified:"1715363298" status:"pending" uuid:"5a80115d-8e53-484d-8019-9bc054468cf5"]
+new [description:"vimtex" end:"1715378128" entry:"1715363298" modified:"1715378128" status:"completed" uuid:"5a80115d-8e53-484d-8019-9bc054468cf5"]
+---
+time 1715378138
+old [description:"ultisnips" entry:"1715363307" modified:"1715363307" status:"pending" uuid:"bbfe6a69-29fc-47f7-9591-1260c15c7047"]
+new [description:"ultisnips" end:"1715378138" entry:"1715363307" modified:"1715378138" status:"completed" uuid:"bbfe6a69-29fc-47f7-9591-1260c15c7047"]
+---
+time 1715378154
+old [description:"youcompleteme" entry:"1715363485" modified:"1715363485" status:"pending" uuid:"8edb2603-23a2-4e98-9778-a8eb970effae"]
+new [description:"youcompleteme" end:"1715378154" entry:"1715363485" modified:"1715378154" status:"completed" uuid:"8edb2603-23a2-4e98-9778-a8eb970effae"]
+---
+time 1715379000
+old [description:"gcalcli" entry:"1715363331" modified:"1715363331" status:"pending" uuid:"951c3259-ee50-4438-af5a-9dd6ec6c3c13"]
+new [description:"gcalcli" end:"1715379000" entry:"1715363331" modified:"1715379000" status:"completed" uuid:"951c3259-ee50-4438-af5a-9dd6ec6c3c13"]
+---
+time 1715384042
+old [description:"mathematica" entry:"1715363336" modified:"1715363336" status:"pending" uuid:"0f059c17-7336-426e-b5a1-7a62d5cffd5a"]
+new [description:"mathematica" end:"1715384042" entry:"1715363336" modified:"1715384042" status:"completed" uuid:"0f059c17-7336-426e-b5a1-7a62d5cffd5a"]
+---
+time 1715384836
+old [description:"scrcpy" entry:"1715363374" modified:"1715363374" status:"pending" uuid:"0873f036-358f-435c-9f23-e7b5bdcb6816"]
+new [description:"scrcpy" end:"1715384836" entry:"1715363374" modified:"1715384836" status:"completed" uuid:"0873f036-358f-435c-9f23-e7b5bdcb6816"]
+---
+time 1715384879
+old [description:"thunderbird-theme" entry:"1715363826" modified:"1715363826" status:"pending" uuid:"a1b50279-0d3c-4a7e-8ba7-c97828c5de2c"]
+new [description:"thunderbird-theme" end:"1715384879" entry:"1715363826" modified:"1715384879" status:"completed" uuid:"a1b50279-0d3c-4a7e-8ba7-c97828c5de2c"]
+---
+time 1715384905
+new [description:"tododelet" entry:"1715384905" modified:"1715384905" status:"pending" uuid:"6fba0d5f-654d-4374-ab16-5b5e848c9178"]
+---
+time 1715384986
+old [description:"tododelet" entry:"1715384905" modified:"1715384905" status:"pending" uuid:"6fba0d5f-654d-4374-ab16-5b5e848c9178"]
+new [description:"tododelet" end:"1715384986" entry:"1715384905" modified:"1715384986" status:"completed" uuid:"6fba0d5f-654d-4374-ab16-5b5e848c9178"]
+---
+time 1715385025
+new [description:"backup" entry:"1715385025" modified:"1715385025" status:"pending" uuid:"b3acd7ce-45fa-4966-b4a7-2e291661504a"]
+---
+time 1715589055
+new [description:"Create Presentation Slides" entry:"1715589055" modified:"1715589055" status:"pending" uuid:"fb64f814-e340-4a17-a6ab-7a4531d91cbd"]
+---
+time 1715592197
+new [description:"zsh-autocomplete" entry:"1715592197" modified:"1715592197" status:"pending" uuid:"aba09050-20d6-406a-b761-cf314468d82a"]
+---
+time 1715673704
+old [description:"windows-usb" entry:"1715363283" modified:"1715363283" status:"pending" uuid:"216e6d57-046f-432e-accc-07fd2d06ab96"]
+new [description:"windows-usb" end:"1715673704" entry:"1715363283" modified:"1715673704" status:"completed" uuid:"216e6d57-046f-432e-accc-07fd2d06ab96"]
+---
+time 1715673945
+old [description:"zsh-autocomplete" entry:"1715592197" modified:"1715592197" status:"pending" uuid:"aba09050-20d6-406a-b761-cf314468d82a"]
+new [description:"zsh-autocomplete" end:"1715673945" entry:"1715592197" modified:"1715673945" status:"completed" uuid:"aba09050-20d6-406a-b761-cf314468d82a"]
+---
+time 1715679833
+old [description:"backup" entry:"1715385025" modified:"1715385025" status:"pending" uuid:"b3acd7ce-45fa-4966-b4a7-2e291661504a"]
+new [description:"backup" end:"1715679833" entry:"1715385025" modified:"1715679833" status:"completed" uuid:"b3acd7ce-45fa-4966-b4a7-2e291661504a"]
+---
+time 1715681835
+new [description:"Quizz" entry:"1715681835" modified:"1715681835" status:"pending" uuid:"2a7dc212-d9b5-4656-888c-c4825e3e1842"]
+---
+time 1715681875
+new [description:"Emails" entry:"1715681875" modified:"1715681875" status:"pending" uuid:"f85962dc-f024-477f-bd8f-cffb8fda6e9f"]
+---
+time 1715682046
+old [description:"Create Presentation Slides" entry:"1715589055" modified:"1715589055" status:"pending" uuid:"fb64f814-e340-4a17-a6ab-7a4531d91cbd"]
+new [description:"Create Presentation Slides" end:"1715682046" entry:"1715589055" modified:"1715682046" status:"completed" uuid:"fb64f814-e340-4a17-a6ab-7a4531d91cbd"]
+---
+time 1715682198
+new [description:"Choosing Slides" entry:"1715682198" modified:"1715682198" status:"pending" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+---
+time 1715682229
+old [description:"Choosing Slides" entry:"1715682198" modified:"1715682198" status:"pending" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+new [description:"Choosing Slides" entry:"1715682198" modified:"1715682229" project:"AUC" status:"pending" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+---
+time 1715682385
+new [description:"Quiz" entry:"1715682385" modified:"1715682385" priority:"H" status:"pending" uuid:"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"]
+---
+time 1715682414
+new [description:"Emails" entry:"1715682414" modified:"1715682414" priority:"H" status:"pending" uuid:"75a9ade5-43cb-4837-8c3f-9af6238ae542"]
+---
+time 1715682427
+old [description:"Quiz" entry:"1715682385" modified:"1715682385" priority:"H" status:"pending" uuid:"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"]
+new [description:"Quiz" entry:"1715682385" modified:"1715682427" priority:"H" start:"1715682427" status:"pending" uuid:"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"]
+---
+time 1715683377
+old [description:"Quiz" entry:"1715682385" modified:"1715682427" priority:"H" start:"1715682427" status:"pending" uuid:"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"]
+new [description:"Quiz" end:"1715683377" entry:"1715682385" modified:"1715683377" priority:"H" status:"completed" uuid:"6a089ba6-dc1d-4bbb-b9c2-18971acf0bac"]
+---
+time 1715683387
+old [description:"Emails" entry:"1715682414" modified:"1715682414" priority:"H" status:"pending" uuid:"75a9ade5-43cb-4837-8c3f-9af6238ae542"]
+new [description:"Emails" end:"1715683387" entry:"1715682414" modified:"1715683387" priority:"H" status:"completed" uuid:"75a9ade5-43cb-4837-8c3f-9af6238ae542"]
+---
+time 1715683414
+new [description:"Read Dvorzak Paper" entry:"1715683414" modified:"1715683414" project:"AUC" status:"pending" uuid:"534b1fcf-e5d4-4b70-a4a5-22bda5acc11b"]
+---
+time 1715683450
+new [description:"Write Ticketing Application" entry:"1715683450" modified:"1715683450" project:"AUC" status:"pending" uuid:"f7859a78-8456-428a-be45-edc7abdc2966"]
+---
+time 1715683501
+new [description:"Course Outline" entry:"1715683501" modified:"1715683501" project:"ENV" status:"pending" uuid:"bb135572-6b5a-457d-ad39-e85a9f0939b4"]
+---
+time 1715683519
+new [description:"Course Outline" entry:"1715683519" modified:"1715683519" project:"ORG" status:"pending" uuid:"b72faf2c-0266-4afd-8fa0-44c958794fee"]
+---
+time 1715683555
+new [description:"Slides" entry:"1715683555" modified:"1715683555" project:"ENV" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+---
+time 1715683578
+new [description:"Slides" entry:"1715683578" modified:"1715683578" project:"ORG" status:"pending" uuid:"63571758-4e84-4487-aab6-189f1f27bd9b"]
+---
+time 1715683602
+old [description:"Choosing Slides" entry:"1715682198" modified:"1715682229" project:"AUC" status:"pending" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+new [description:"Choosing Slides" entry:"1715682198" modified:"1715683602" project:"AUC" start:"1715683602" status:"pending" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+---
+time 1715771244
+new [description:"Update Homepage" entry:"1715771244" modified:"1715771244" status:"pending" uuid:"6f3f48b1-67e7-41d8-84b0-8ae91b357479"]
+---
+time 1715860547
+old [description:"Choosing Slides" entry:"1715682198" modified:"1715683602" project:"AUC" start:"1715683602" status:"pending" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+new [description:"Choosing Slides" end:"1715860547" entry:"1715682198" modified:"1715860547" project:"AUC" status:"completed" uuid:"58a99876-9db4-40c0-ba33-cc01277dd070"]
+---
+time 1716387219
+new [description:"Hi" entry:"1716387219" modified:"1716387219" status:"pending" uuid:"8d53c3f8-b074-4b74-acfc-aef16f46eef2"]
+---
+time 1716387235
+old [description:"Hi" entry:"1716387219" modified:"1716387219" status:"pending" uuid:"8d53c3f8-b074-4b74-acfc-aef16f46eef2"]
+new [description:"Hi" end:"1716387235" entry:"1716387219" modified:"1716387235" status:"completed" uuid:"8d53c3f8-b074-4b74-acfc-aef16f46eef2"]
+---
+time 1716973375
+new [description:"Update CV" entry:"1716973375" modified:"1716973375" status:"pending" uuid:"c3f3a6ce-97a0-4783-8611-d54882e4d89e"]
+---
+time 1717151368
+old [description:"Update Homepage" entry:"1715771244" modified:"1715771244" status:"pending" uuid:"6f3f48b1-67e7-41d8-84b0-8ae91b357479"]
+new [description:"Update Homepage" end:"1717151368" entry:"1715771244" modified:"1717151368" status:"completed" uuid:"6f3f48b1-67e7-41d8-84b0-8ae91b357479"]
+---
+time 1717151382
+old [description:"Update CV" entry:"1716973375" modified:"1716973375" status:"pending" uuid:"c3f3a6ce-97a0-4783-8611-d54882e4d89e"]
+new [description:"Update CV" end:"1717151382" entry:"1716973375" modified:"1717151382" status:"completed" uuid:"c3f3a6ce-97a0-4783-8611-d54882e4d89e"]
+---
+time 1717151426
+old [description:"Read Dvorzak Paper" entry:"1715683414" modified:"1715683414" project:"AUC" status:"pending" uuid:"534b1fcf-e5d4-4b70-a4a5-22bda5acc11b"]
+new [description:"Read Dvorzak Paper" end:"1717151426" entry:"1715683414" modified:"1717151426" project:"AUC" status:"completed" uuid:"534b1fcf-e5d4-4b70-a4a5-22bda5acc11b"]
+---
+time 1717404153
+new [description:"Arthur Rieß benotung" entry:"1717404153" modified:"1717404153" status:"pending" uuid:"14648da0-a1e7-4b86-b3a7-6f0a36868cce"]
+---
+time 1717404171
+new [description:"Hector Reimbursement" entry:"1717404171" modified:"1717404171" status:"pending" uuid:"3b45daf5-4d64-4952-bcc3-776559766760"]
+---
+time 1717426714
+old [description:"Write Ticketing Application" entry:"1715683450" modified:"1715683450" project:"AUC" status:"pending" uuid:"f7859a78-8456-428a-be45-edc7abdc2966"]
+new [description:"Write Ticketing Application" end:"1717426714" entry:"1715683450" modified:"1717426714" project:"AUC" status:"completed" uuid:"f7859a78-8456-428a-be45-edc7abdc2966"]
+---
+time 1717577502
+old [description:"Hector Reimbursement" entry:"1717404171" modified:"1717404171" status:"pending" uuid:"3b45daf5-4d64-4952-bcc3-776559766760"]
+new [description:"Hector Reimbursement" end:"1717577502" entry:"1717404171" modified:"1717577502" status:"completed" uuid:"3b45daf5-4d64-4952-bcc3-776559766760"]
+---
+time 1717577520
+old [description:"Arthur Rieß benotung" entry:"1717404153" modified:"1717404153" status:"pending" uuid:"14648da0-a1e7-4b86-b3a7-6f0a36868cce"]
+new [description:"Arthur Rieß benotung" end:"1717577520" entry:"1717404153" modified:"1717577520" status:"completed" uuid:"14648da0-a1e7-4b86-b3a7-6f0a36868cce"]
+---
+time 1717744435
+old [description:"Course Outline" entry:"1715683501" modified:"1715683501" project:"ENV" status:"pending" uuid:"bb135572-6b5a-457d-ad39-e85a9f0939b4"]
+new [description:"Course Outline" end:"1717744435" entry:"1715683501" modified:"1717744435" project:"ENV" status:"completed" uuid:"bb135572-6b5a-457d-ad39-e85a9f0939b4"]
+---
+time 1717744468
+new [description:"Notes" entry:"1717744468" modified:"1717744468" project:"ENV" status:"pending" uuid:"ee2f62b0-dff8-4eb9-8f67-38e102c705e2"]
+---
+time 1717744513
+new [description:"Notes" entry:"1717744513" modified:"1717744513" project:"ORG" status:"pending" uuid:"66ec3a37-9869-4fe5-84fa-571324914e26"]
+---
+time 1717744536
+new [description:"Problem Sets projet:ENV" entry:"1717744536" modified:"1717744536" status:"pending" uuid:"584ad779-783c-488f-9d3f-04106f3fb8b5"]
+---
+time 1717744561
+old [description:"Problem Sets projet:ENV" entry:"1717744536" modified:"1717744536" status:"pending" uuid:"584ad779-783c-488f-9d3f-04106f3fb8b5"]
+new [description:"Problem Sets projet:ENV" end:"1717744561" entry:"1717744536" modified:"1717744561" status:"completed" uuid:"584ad779-783c-488f-9d3f-04106f3fb8b5"]
+---
+time 1717744583
+new [description:"Problem Sets" entry:"1717744583" modified:"1717744583" project:"ENV" status:"pending" uuid:"6db153da-b4a3-4385-adf9-ffef64196428"]
+---
+time 1718275882
+new [description:"Merge versions" entry:"1718275882" modified:"1718275882" project:"AUC" status:"pending" uuid:"0aded53b-fb64-44ce-816d-a139eb1edde9"]
+---
+time 1718623759
+old [description:"Merge versions" entry:"1718275882" modified:"1718275882" project:"AUC" status:"pending" uuid:"0aded53b-fb64-44ce-816d-a139eb1edde9"]
+new [description:"Merge versions" end:"1718623759" entry:"1718275882" modified:"1718623759" project:"AUC" status:"completed" uuid:"0aded53b-fb64-44ce-816d-a139eb1edde9"]
+---
+time 1718623794
+new [description:"Payment insurance" entry:"1718623794" modified:"1718623794" status:"pending" uuid:"a9c8b3b9-0826-4342-b3af-c98d7e91a551"]
+---
+time 1718700018
+old [description:"Payment insurance" entry:"1718623794" modified:"1718623794" status:"pending" uuid:"a9c8b3b9-0826-4342-b3af-c98d7e91a551"]
+new [description:"Payment insurance" end:"1718700018" entry:"1718623794" modified:"1718700018" status:"completed" uuid:"a9c8b3b9-0826-4342-b3af-c98d7e91a551"]
+---
+time 1718700027
+old [description:"Slides" entry:"1715683555" modified:"1715683555" project:"ENV" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+new [description:"Slides" entry:"1715683555" modified:"1718700027" project:"ENV" start:"1718700027" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+---
+time 1718803931
+new [description:"Proof SP" entry:"1718803931" modified:"1718803931" project:"AUC" status:"pending" uuid:"dea26ffc-8e90-414a-bc59-059b19e611bd"]
+---
+time 1718803959
+new [description:"Proof SC" entry:"1718803959" modified:"1718803959" project:"AUC" status:"pending" uuid:"e9a6131d-71e1-4e86-953f-a9185667ac88"]
+---
+time 1718958564
+new [description:"Move between monitors" entry:"1718958564" modified:"1718958564" status:"pending" uuid:"ee5f3cab-f75c-4bd8-908f-0eb999723fa3"]
+---
+time 1718958587
+old [description:"Proof SP" entry:"1718803931" modified:"1718803931" project:"AUC" status:"pending" uuid:"dea26ffc-8e90-414a-bc59-059b19e611bd"]
+new [description:"Proof SP" entry:"1718803931" modified:"1718958587" project:"AUC" start:"1718958587" status:"pending" uuid:"dea26ffc-8e90-414a-bc59-059b19e611bd"]
+---
+time 1719308101
+old [description:"Move between monitors" entry:"1718958564" modified:"1718958564" status:"pending" uuid:"ee5f3cab-f75c-4bd8-908f-0eb999723fa3"]
+new [description:"Move between monitors" end:"1719308101" entry:"1718958564" modified:"1719308101" status:"completed" uuid:"ee5f3cab-f75c-4bd8-908f-0eb999723fa3"]
+---
+time 1723018262
+old [description:"Proof SP" entry:"1718803931" modified:"1718958587" project:"AUC" start:"1718958587" status:"pending" uuid:"dea26ffc-8e90-414a-bc59-059b19e611bd"]
+new [description:"Proof SP" end:"1723018262" entry:"1718803931" modified:"1723018262" project:"AUC" status:"completed" uuid:"dea26ffc-8e90-414a-bc59-059b19e611bd"]
+---
+time 1723018307
+new [description:"Final read" entry:"1723018307" modified:"1723018307" project:"AUC" status:"pending" uuid:"267db415-aa99-4b37-adcf-49b58c9b6012"]
+---
+time 1725522115
+old [description:"Proof SC" entry:"1718803959" modified:"1718803959" project:"AUC" status:"pending" uuid:"e9a6131d-71e1-4e86-953f-a9185667ac88"]
+new [description:"Proof SC" end:"1725522115" entry:"1718803959" modified:"1725522115" project:"AUC" status:"completed" uuid:"e9a6131d-71e1-4e86-953f-a9185667ac88"]
+---
+time 1727438768
+new [description:"Derigstration of non-present students" entry:"1727438768" modified:"1727438768" status:"pending" uuid:"5493afc4-47fe-4649-84b9-722a585e60e5"]
+---
+time 1727780244
+old [description:"Course Outline" entry:"1715683519" modified:"1715683519" project:"ORG" status:"pending" uuid:"b72faf2c-0266-4afd-8fa0-44c958794fee"]
+new [description:"Course Outline" end:"1727780244" entry:"1715683519" modified:"1727780244" project:"ORG" status:"completed" uuid:"b72faf2c-0266-4afd-8fa0-44c958794fee"]
+---
+time 1727780275
+old [description:"Slides" entry:"1715683578" modified:"1715683578" project:"ORG" status:"pending" uuid:"63571758-4e84-4487-aab6-189f1f27bd9b"]
+new [description:"Slides" entry:"1715683578" modified:"1727780275" project:"ORG" start:"1727780275" status:"pending" uuid:"63571758-4e84-4487-aab6-189f1f27bd9b"]
+---
+time 1727780287
+old [description:"Slides" entry:"1715683555" modified:"1718700027" project:"ENV" start:"1718700027" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+new [description:"Slides" entry:"1715683555" modified:"1727780287" project:"ENV" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+---
+time 1727781569
+old [description:"Slides" entry:"1715683578" modified:"1727780275" project:"ORG" start:"1727780275" status:"pending" uuid:"63571758-4e84-4487-aab6-189f1f27bd9b"]
+new [description:"Slides" end:"1727781569" entry:"1715683578" modified:"1727781569" project:"ORG" status:"completed" uuid:"63571758-4e84-4487-aab6-189f1f27bd9b"]
+---
+time 1727781599
+new [description:"Moodle" entry:"1727781599" modified:"1727781599" project:"ENV" status:"pending" uuid:"5f4958a9-d83f-42ec-82a5-bb18a658f4fc"]
+---
+time 1727781631
+new [description:"Moodle" entry:"1727781631" modified:"1727781631" project:"ORG" status:"pending" uuid:"2183ea40-7eb0-44b5-b556-a9020f235e74"]
+---
+time 1727781881
+old [description:"Notes" entry:"1717744468" modified:"1717744468" project:"ENV" status:"pending" uuid:"ee2f62b0-dff8-4eb9-8f67-38e102c705e2"]
+new [description:"Notes" end:"1727781878" entry:"1717744468" modified:"1727781881" project:"ENV" status:"deleted" uuid:"ee2f62b0-dff8-4eb9-8f67-38e102c705e2"]
+---
+time 1727781913
+old [description:"Notes" entry:"1717744513" modified:"1717744513" project:"ORG" status:"pending" uuid:"66ec3a37-9869-4fe5-84fa-571324914e26"]
+new [description:"Notes" end:"1727781910" entry:"1717744513" modified:"1727781913" project:"ORG" status:"deleted" uuid:"66ec3a37-9869-4fe5-84fa-571324914e26"]
+---
+time 1727781958
+old [description:"Moodle" entry:"1727781631" modified:"1727781631" project:"ORG" status:"pending" uuid:"2183ea40-7eb0-44b5-b556-a9020f235e74"]
+new [description:"Moodle" entry:"1727781631" modified:"1727781958" project:"ORG" start:"1727781958" status:"pending" uuid:"2183ea40-7eb0-44b5-b556-a9020f235e74"]
+---
+time 1727790647
+old [description:"Moodle" entry:"1727781631" modified:"1727781958" project:"ORG" start:"1727781958" status:"pending" uuid:"2183ea40-7eb0-44b5-b556-a9020f235e74"]
+new [description:"Moodle" end:"1727790647" entry:"1727781631" modified:"1727790647" project:"ORG" status:"completed" uuid:"2183ea40-7eb0-44b5-b556-a9020f235e74"]
+---
+time 1727955587
+old [description:"Slides" entry:"1715683555" modified:"1727780287" project:"ENV" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+new [description:"Slides" entry:"1715683555" modified:"1727955587" project:"ENV" start:"1727955587" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+---
+time 1728288304
+old [description:"Derigstration of non-present students" entry:"1727438768" modified:"1727438768" status:"pending" uuid:"5493afc4-47fe-4649-84b9-722a585e60e5"]
+new [description:"Derigstration of non-present students" end:"1728288304" entry:"1727438768" modified:"1728288304" status:"completed" uuid:"5493afc4-47fe-4649-84b9-722a585e60e5"]
+---
+time 1728288554
+old [description:"Problem Sets" entry:"1717744583" modified:"1717744583" project:"ENV" status:"pending" uuid:"6db153da-b4a3-4385-adf9-ffef64196428"]
+new [description:"Problem Sets" entry:"1717744583" modified:"1728288554" project:"ENV" start:"1728288554" status:"pending" uuid:"6db153da-b4a3-4385-adf9-ffef64196428"]
+---
+time 1728288566
+old [description:"Slides" entry:"1715683555" modified:"1727955587" project:"ENV" start:"1727955587" status:"pending" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+new [description:"Slides" end:"1728288566" entry:"1715683555" modified:"1728288566" project:"ENV" status:"completed" uuid:"3dd1784d-0caf-408c-a0a3-5be25e285764"]
+---
+time 1728288573
+old [description:"Problem Sets" entry:"1717744583" modified:"1728288554" project:"ENV" start:"1728288554" status:"pending" uuid:"6db153da-b4a3-4385-adf9-ffef64196428"]
+new [description:"Problem Sets" end:"1728288573" entry:"1717744583" modified:"1728288573" project:"ENV" status:"completed" uuid:"6db153da-b4a3-4385-adf9-ffef64196428"]
+---
+time 1728288584
+old [description:"Final read" entry:"1723018307" modified:"1723018307" project:"AUC" status:"pending" uuid:"267db415-aa99-4b37-adcf-49b58c9b6012"]
+new [description:"Final read" end:"1728288584" entry:"1723018307" modified:"1728288584" project:"AUC" status:"completed" uuid:"267db415-aa99-4b37-adcf-49b58c9b6012"]
+---
+time 1728288591
+old [description:"Moodle" entry:"1727781599" modified:"1727781599" project:"ENV" status:"pending" uuid:"5f4958a9-d83f-42ec-82a5-bb18a658f4fc"]
+new [description:"Moodle" end:"1728288591" entry:"1727781599" modified:"1728288591" project:"ENV" status:"completed" uuid:"5f4958a9-d83f-42ec-82a5-bb18a658f4fc"]
+---
+time 1728288645
+new [description:"Prep" entry:"1728288645" modified:"1728288645" project:"ORG" status:"pending" uuid:"d86aa482-82a4-45db-99ff-21a3963ade32"]
+---
+time 1728288669
+new [description:"Prep" entry:"1728288669" modified:"1728288669" project:"ENV" status:"pending" uuid:"7733cf88-67f4-4dce-bff5-c2793d2a7cc0"]
+---
+time 1728288684
+new [description:"Slides" entry:"1728288684" modified:"1728288684" project:"ENV" status:"pending" uuid:"8390c7dc-cb4b-4416-a3d4-c1b7f8478f27"]
+---
+time 1728288747
+new [description:"Final-read" entry:"1728288747" modified:"1728288747" project:"AUC" status:"pending" uuid:"3611c5d1-3bad-4de2-bbf1-f65496a6738e"]
+---
+time 1728288863
+new [description:"Brown-Bag" entry:"1728288863" modified:"1728288863" status:"pending" uuid:"18eb40a8-6d7f-46ef-a509-3dfc325ffea7"]
+---
+time 1728289349
+old [description:"Prep" entry:"1728288645" modified:"1728288645" project:"ORG" status:"pending" uuid:"d86aa482-82a4-45db-99ff-21a3963ade32"]
+new [description:"Prep" entry:"1728288645" modified:"1728289349" project:"ORG" start:"1728289349" status:"pending" uuid:"d86aa482-82a4-45db-99ff-21a3963ade32"]
+---
+time 1728289375
+new [description:"Problem-sets" entry:"1728289375" modified:"1728289375" project:"ENV" status:"pending" uuid:"49229d0a-f324-4c9a-a204-2a890eff5443"]
+---
+time 1729706334
+old [description:"Prep" entry:"1728288645" modified:"1728289349" project:"ORG" start:"1728289349" status:"pending" uuid:"d86aa482-82a4-45db-99ff-21a3963ade32"]
+new [description:"Prep" end:"1729706334" entry:"1728288645" modified:"1729706334" project:"ORG" status:"completed" uuid:"d86aa482-82a4-45db-99ff-21a3963ade32"]
+---
+time 1729706342
+old [description:"Final-read" entry:"1728288747" modified:"1728288747" project:"AUC" status:"pending" uuid:"3611c5d1-3bad-4de2-bbf1-f65496a6738e"]
+new [description:"Final-read" end:"1729706342" entry:"1728288747" modified:"1729706342" project:"AUC" status:"completed" uuid:"3611c5d1-3bad-4de2-bbf1-f65496a6738e"]
+---
+time 1729706354
+old [description:"Brown-Bag" entry:"1728288863" modified:"1728288863" status:"pending" uuid:"18eb40a8-6d7f-46ef-a509-3dfc325ffea7"]
+new [description:"Brown-Bag" end:"1729706354" entry:"1728288863" modified:"1729706354" status:"completed" uuid:"18eb40a8-6d7f-46ef-a509-3dfc325ffea7"]
+---
+time 1729934628
+new [description:"Understand Kalman filters" entry:"1729934628" modified:"1729934628" status:"pending" uuid:"19f6041d-5284-4bad-af8c-dc9de6f14440"]
+---
+time 1729934653
+old [description:"Understand Kalman filters" entry:"1729934628" modified:"1729934628" status:"pending" uuid:"19f6041d-5284-4bad-af8c-dc9de6f14440"]
+new [description:"Understand Kalman filters" entry:"1729934628" modified:"1729934653" project:"FAKE" status:"pending" uuid:"19f6041d-5284-4bad-af8c-dc9de6f14440"]
+---
+time 1729934663
+old [description:"Slides" entry:"1728288684" modified:"1728288684" project:"ENV" status:"pending" uuid:"8390c7dc-cb4b-4416-a3d4-c1b7f8478f27"]
+new [description:"Slides" end:"1729934663" entry:"1728288684" modified:"1729934663" project:"ENV" status:"completed" uuid:"8390c7dc-cb4b-4416-a3d4-c1b7f8478f27"]
+---
+time 1729934678
+old [description:"Prep" entry:"1728288669" modified:"1728288669" project:"ENV" status:"pending" uuid:"7733cf88-67f4-4dce-bff5-c2793d2a7cc0"]
+new [description:"Prep" end:"1729934678" entry:"1728288669" modified:"1729934678" project:"ENV" status:"completed" uuid:"7733cf88-67f4-4dce-bff5-c2793d2a7cc0"]
+---
+time 1730309556
+old [description:"Understand Kalman filters" entry:"1729934628" modified:"1729934653" project:"FAKE" status:"pending" uuid:"19f6041d-5284-4bad-af8c-dc9de6f14440"]
+new [description:"Understand Kalman filters" end:"1730309556" entry:"1729934628" modified:"1730309556" project:"FAKE" status:"completed" uuid:"19f6041d-5284-4bad-af8c-dc9de6f14440"]
+---
+time 1730381146
+new [description:"Ratio Distribution" entry:"1730381146" modified:"1730381146" project:"FAKE" status:"pending" uuid:"eff97d26-6035-4375-aaf4-f2d6c10c3c6e"]
+---
+time 1730839160
+old [description:"Problem-sets" entry:"1728289375" modified:"1728289375" project:"ENV" status:"pending" uuid:"49229d0a-f324-4c9a-a204-2a890eff5443"]
+new [description:"Problem-sets" end:"1730839160" entry:"1728289375" modified:"1730839160" project:"ENV" status:"completed" uuid:"49229d0a-f324-4c9a-a204-2a890eff5443"]
+---
+time 1730839172
+old [description:"Ratio Distribution" entry:"1730381146" modified:"1730381146" project:"FAKE" status:"pending" uuid:"eff97d26-6035-4375-aaf4-f2d6c10c3c6e"]
+new [description:"Ratio Distribution" end:"1730839172" entry:"1730381146" modified:"1730839172" project:"FAKE" status:"completed" uuid:"eff97d26-6035-4375-aaf4-f2d6c10c3c6e"]
+---
+time 1731256356
+new [description:"Presentation" entry:"1731256356" modified:"1731256356" project:"AUC" status:"pending" uuid:"4fd589c5-d514-420c-aa4e-3c0f2c8fb53b"]
+---
+time 1731256393
+new [description:"Motivation" entry:"1731256393" modified:"1731256393" project:"AUC" status:"pending" uuid:"5f1a1c04-a57b-4cac-84a4-8cc3a5f65924"]
+---
